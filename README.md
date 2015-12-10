@@ -9,7 +9,7 @@ unexperienced horizons of beauty.
 This is one of the numerous projects done during the 42 piscine in July 2015. It was completed in a week and can display fancy pyramids in ASCII that follow a simple set of rules. The objective was to recreate the behavior of a given executable as closely as possible.
 
 ## Compiling
-The project currently only has the functions for generating the pyramid. Here's a simple main (assuming you have a working [libft](https://github.com/pbondoer/42-libft) ):
+The project currently only has the functions for generating the pyramid. Here's a simple main (assuming you have a working [libft](https://github.com/pbondoer/42-libft)):
 
 ```c
 #include "libft.h"
