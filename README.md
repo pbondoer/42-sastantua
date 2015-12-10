@@ -9,7 +9,7 @@ unexperienced horizons of beauty.
 This is one of the numerous projects done during the 42 piscine in July 2015. It was completed in a week and can display fancy pyramids in ASCII that follow a simple set of rules. The objective was to recreate the behavior of a given executable as closely as possible.
 
 ## Compiling
-The project currently only has the functions for generating the pyramid. Here's a simple main (assuming you have a working (https://github.com/pbondoer/42-libft)[libft]):
+The project currently only has the functions for generating the pyramid. Here's a simple main (assuming you have a working [libft](https://github.com/pbondoer/42-libft) ):
 
 ```c
 #include "libft.h"
@@ -48,6 +48,6 @@ $ ./sastantua 3
 ## A little note for 42 students
 Hi! This is the first bonus project for the 42 piscine. If you're here and you didn't try anything before, you should definitely give it a try. It's not as hard as it seems! Think about it: the pyramids are generated in a very predictable way.
 
-You might want to check `man diff` and (https://www.gnu.org/software/bash/manual/html_node/Redirections.html)[redirectors]. It's helped me make sure mine was correct!
+You might want to check `man diff` and [redirectors](https://www.gnu.org/software/bash/manual/html_node/Redirections.html). It's helped me make sure mine was correct!
 
 Good luck, and thanks for all the fish!
